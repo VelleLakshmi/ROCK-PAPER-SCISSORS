@@ -10,5 +10,6 @@ Rock beats Scissors
 Scissors beat Paper
 Paper beats Rock
 
-#Requirements
+# Requirements
+
 Python 
